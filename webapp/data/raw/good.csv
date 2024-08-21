@@ -1,0 +1,25 @@
+key,type,time
+b,keydown,9848
+b,keyup,9978
+a,keydown,10286
+a,keyup,10442
+d,keydown,10528
+d,keyup,10671
+ ,keydown,10869
+ ,keyup,10985
+g,keydown,11270
+g,keyup,11401
+o,keydown,11480
+o,keyup,11599
+o,keydown,11662
+o,keyup,11794
+d,keydown,11880
+d,keyup,12057
+ ,keydown,12243
+ ,keyup,12414
+b,keydown,13155
+b,keyup,13278
+a,keydown,13404
+a,keyup,13570
+d,keydown,13679
+d,keyup,13838
